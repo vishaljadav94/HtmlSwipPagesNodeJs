@@ -1,0 +1,25 @@
+{
+  "name": "htmlswippage",
+  "version": "1.0.0",
+  "description": "htm swup page using routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishaljadav94/HtmlSwipPagesNodeJs.git"
+  },
+  "author": "vishal jadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishaljadav94/HtmlSwipPagesNodeJs/issues"
+  },
+  "homepage": "https://github.com/vishaljadav94/HtmlSwipPagesNodeJs#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.2"
+  }
+}
